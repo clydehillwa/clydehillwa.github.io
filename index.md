@@ -12,4 +12,4 @@ My goal with this site is to pull stuff I learned and ran across in the process 
 
 So, here goes. 
 
-sample link: [link to Google!](/about.md)
+sample link: [link to Google!](https://clydehillwa.github.io/about.md)
