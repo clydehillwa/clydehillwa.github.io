@@ -11,3 +11,5 @@ It's all public. It's not always accessible, or well-documented, or easy to make
 My goal with this site is to pull stuff I learned and ran across in the process of going to the meetings and asking questions out of my notes and out on the web. As I talked with friends about what I was running across, this seemed like a good idea. 
 
 So, here goes. 
+
+sample link: [link to Google!](http://google.com)
