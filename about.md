@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "First non index page"
 ---
 
