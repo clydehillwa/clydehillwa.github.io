@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to... this
 
-You can use the [editor on GitHub](https://github.com/clydehillwa/clydehillwa.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Started as 'place to pull my notes about the city Clyde Hill WA' off my machine and cloud and to the web. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Also a healthy public exercise in learning GitHub Pages <g>
 
-### Markdown
+Some instructions on the mechanics (seem to have appeared after installing a theme):
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. (You can use the [editor on GitHub](https://github.com/clydehillwa/clydehillwa.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.)
+
+### Markdown cheat-sheet
 
 ```markdown
 Syntax highlighted code block
