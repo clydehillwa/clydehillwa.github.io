@@ -12,4 +12,4 @@ My goal with this site is to pull stuff I learned and ran across in the process 
 
 So, here goes. 
 
-sample link: [link to Google!](https://clydehillwa.github.io/about.md)
+NOTE: this is not an official government site -- that site is [clydehill.org](https://clydehill.org)
