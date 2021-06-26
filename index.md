@@ -34,5 +34,5 @@ The formal term here is a _Hybrid City Administrator System_. Clyde Hill is a _M
 
 This is separate from Clyde Hill's status as a _non-charter code_ city (mentioned above). Also, "All cities in King County are “non-charter code” cities, except the city of Seattle and the towns of Beaux Arts Village, Hunts Point, Skykomish and Yarrow Point.” ([King County 2021 Candidate Manual, p.13](https://kingcounty.gov/~/media/depts/elections/for-candidates/pdfs/candidate-manual.ashx?la=en)).
 
-As Clyde Hill is in King County, [King County](https://kingcounty.gov/depts/elections/about-us.aspx) conducts elections for the City Council positions and Mayor. "The Clyde Hill City Council are elected at large to staggered four-year terms," with three seats up for election in 2021 and the other two in 2023. [ClydeHill.org](https://www.clydehill.org/government/council) The Mayor's term is also four years. 
+As Clyde Hill is in King County, [King County](https://kingcounty.gov/depts/elections/about-us.aspx) conducts elections for the City Council positions and Mayor. "The Clyde Hill City Council are elected at large to staggered four-year terms," ([ClydeHill.org](https://www.clydehill.org/government/council)) with three seats up for election in 2021 and the other two in 2023. The Mayor's term is also four years. 
 
