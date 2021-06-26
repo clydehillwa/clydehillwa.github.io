@@ -1,5 +1,6 @@
 ---
 title: "City Government"
+nav_order: 7
 ---
 
 ### City Government
