@@ -1,5 +1,6 @@
 ---
 title: "About this site"
+nav_order: 1
 ---
 
 A year or two ago, I got curious about the _practice_ of civics: what's the de facto reality of how we get along in society? Reading the _theory_ is always fun... and I live somewhere _real_, not theoretical, with budgets, police, public works departments, mayors, etc. 
