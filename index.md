@@ -10,7 +10,7 @@ I wanted to understand, more practically than theoretically, _how_ local governm
 
 The goal with this site is to distill and set out, in an easy to understand way, that understanding. As I read, ask questions, and talk with friends, I want to capture the model of 'modern local civics of a small US city' that emerges.
 
-Writing in this format is a forcing function for clarity and structure than typically doesn't happen in Notes to Oneself. 
+Writing in this format is a forcing function for clarity and structure that typically does not happen in Notes to Oneself. 
 
 I welcome corrections, suggestions, and feedback. This is for sure a work in progress. 
 
