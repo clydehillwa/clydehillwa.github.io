@@ -1,5 +1,6 @@
 ---
 title: "Clyde Hill 101"
+nav_order: 3
 ---
 
 # Getting Started
