@@ -6,7 +6,7 @@ nav_order: 2
 ### Practical Civics 
 June 26, 2021
 
-I wanted to understand, more practically than theoretically, _how_ local government _works_ (structure, function, rhythm), especially the interaction between elected officials, government employees, code, and the people who actually live here. 
+I wanted to understand, more practically than theoretically, _how_ local government _works_ (structure, function, rhythm), especially the interaction between elected officials, government employees, code, and the people who actually live here. The point of view is from someone who just lives here, with no professional experience in law, governance, or civil service. 
 
 The goal with this site is to distill and set out, in an easy to understand way, that understanding. As I read, ask questions, and talk with friends, I want to capture the model of 'modern local civics of a small US city' that emerges.
 
