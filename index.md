@@ -3,7 +3,7 @@ title: "Clyde Hill 101"
 ---
 
 # Getting Started
-_NOTE: this site is [about exploring the workings of a city](about.html) and not the official [city government site](https://clydehill.org). We welcome corrections and suggestions._
+_NOTE: this site is about [exploring how the city works](about.html) and is **not** the [official city government site](https://clydehill.org). We welcome corrections and suggestions._
 
 
 
@@ -26,7 +26,7 @@ Clyde Hill is zoned almost entirely for residential single-family use with a few
 
 ### City Government
 
-The residents of Clyde Hill elect a Mayor and five City Council members. The Mayor hires a full-time professional city administrator to serve under them with responsibilty for administrative and other duties (ex budget preparation, people management, etc.). 
+The residents of Clyde Hill elect a Mayor and five City Council members. The Mayor hires a full-time professional city administrator to administrate. The city manager serves under the Mayor. 
 
 The formal term here is a _Hybrid City Administrator System_. Clyde Hill is a _Mayor-Council_ city: "a mayor elected at-large, who serves as the city's chief administrative officer, and a separately elected council (elected either at-large or from districts) which serves as the municipality's legislative body. This separation of powers is based on the traditional federal and state models in the United States." [Municipal Research and Services Center](https://mrsc.org/Home/Explore-Topics/Legal/General-Government/City-and-Town-Forms-of-Government.aspx) 
 
