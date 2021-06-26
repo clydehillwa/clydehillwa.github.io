@@ -1,3 +1,6 @@
+---
+nav_order: 5
+---
 
 ### Origin story: Land use 
 Clyde Hill has about [3300](https://datausa.io/profile/geo/clyde-hill-wa) people in about [1100](https://www.clydehill.org/about-clyde-hill/general-information/) households. The Wikipedia article covers the why of Clyde Hill well:
