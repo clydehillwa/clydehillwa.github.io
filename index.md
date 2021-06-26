@@ -1,5 +1,5 @@
 ---
-title: "Clyde Hill 101"
+title: Clyde Hill 101
 nav_order: 2
 ---
 
