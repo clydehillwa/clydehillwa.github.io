@@ -1,6 +1,6 @@
 ---
 title: Reading
-nav_order: 9
+nav_order: 6
 ---
 
 ### Reading
