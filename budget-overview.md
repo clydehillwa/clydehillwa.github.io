@@ -24,3 +24,5 @@ Quotes here:
 > A further requirement is that the City staff deliver good value and provide responsible stewardship of the taxpayer resources entrusted to our care. 
 
 >The City of Clyde Hill has a core value of being fiscally responsible in its budget polices and fiscal practices. It is through these policies and practices that the City has been able to maintain essential governmental services at levels that are expected by our residents while at the same time building our reserves. 
+
+Quotes from 2.1.1, “INITIAL 2021 BUDGET STUDY SESSION PACKET” (September 16, 2020)
