@@ -15,8 +15,14 @@ CH provides "essential governmental services to its citizens, including police, 
 TK. Separate section right now
 
 ### Process
+TK
 
-Quotes here:
+### Operations
+
+> Under current constraints, we are not able to deliver a balanced budget, but will instead be delivering an operating deficit budget that relies on utilizing reserves.
+
+
+More quotes here:
 > The goal of the 2021 Budget process is to deliver to Clyde Hill citizens a balanced budget that maintains the current level of essential services that are expected. 
 
 > The budget being presented is a good faith effort at balancing the needs of the citizens for essential services with being responsible stewards of taxpayer dollars. 
