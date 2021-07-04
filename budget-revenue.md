@@ -22,3 +22,5 @@ The other sources of revenue are relatively minor: “facility leases for wirele
 Worth noting that until last year, Clyde Hill had “not taken the allowed 1% growth in property taxes for 10 years and not taken the allowed new construction component since 2016.”
 
 Quotes from 2.1.1, “INITIAL 2021 BUDGET STUDY SESSION PACKET” (September 16, 2020)
+
+![2020-2021 High-Level Comparisons](assets/3-2-2-2021_Draft_Rev.png)
