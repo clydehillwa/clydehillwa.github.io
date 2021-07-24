@@ -4,10 +4,14 @@ nav_exclude: true
 ---
 ## Links on the topic of evaluating how well someone is doing in a role. 
 
-https://www1.nyc.gov/site/operations/performance/reporting.page
+TK: unclear what makes sense at CH scale. 
 
-https://mrsc.org/Home/Explore-Topics/Governance/Offices-and-Officers/Roles-and-Responsibilities.aspx
+[NYC](https://www1.nyc.gov/site/operations/performance/reporting.page)
 
-https://mrsc.org/Home/Explore-Topics/Management/Performance-Management/Performance-Measurement.aspx
+[MRSC: Roles and Responsibilities](https://mrsc.org/Home/Explore-Topics/Governance/Offices-and-Officers/Roles-and-Responsibilities.asp)
+
+
+
+[MRSC: Performance](https://mrsc.org/Home/Explore-Topics/Management/Performance-Management/Performance-Measurement.aspx)
 
 
